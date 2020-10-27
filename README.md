@@ -2,4 +2,4 @@
 
 update readme
 
-You are the big dog
+You are the big dog and a doggie dog
